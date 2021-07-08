@@ -509,7 +509,7 @@ input, a, img, span, label, select {
             position: absolute;
             top: 0px;
             left: 100%;
-            background: inherit;
+            background: red;
             width: calc( (100vw - 1180px) / 2 ); }
           #header .inner .menuWeb #gnb li .sub::after {
             content: "";
@@ -518,7 +518,7 @@ input, a, img, span, label, select {
             position: absolute;
             top: 0px;
             right: 100%;
-            background: #eee;
+            background: blue;
             width: calc( (100vw - 1180px) / 2 ); }
         #header .inner .menuWeb #gnb li:hover a {
           background: #555;

@@ -79,7 +79,7 @@ $mobile:539px;
                             position: absolute;
                             top: 0px;
                             left: 100%;
-                            background: inherit;
+                            background: red;
                             width: calc( (100vw - 1180px) / 2 );
                         }
 
@@ -90,7 +90,7 @@ $mobile:539px;
                             position: absolute;
                             top: 0px;
                             right: 100%;
-                            background: #eee;
+                            background: blue;
                             width: calc( (100vw - 1180px) / 2 );
                         }
                     }
